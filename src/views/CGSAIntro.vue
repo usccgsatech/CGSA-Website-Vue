@@ -1,0 +1,14 @@
+<template>
+    <div class="about">
+        <h1>组织介绍</h1>
+        <p>
+            我们是南加州大学中国研究生学生会，简称USC-CGSA。 我们的宗旨是为南加大的中国研究生，博士生，MBA提供一个专注于就业， 学术和社交相关的平台，并为广大留学生提供力所能及的留学问题，法律，手续方面的帮助。
+        </p>
+    </div>
+</template>
+
+<script setup lang="ts">
+// About page component
+</script>
+
+<style scoped></style>
